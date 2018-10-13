@@ -1,0 +1,70 @@
+.barra{
+	margin-right: 10px;
+	padding-bottom: 20px;
+}
+
+.container1{
+	position: relative;
+}
+.navbar{
+	margin: 0;
+}
+img.logo{
+	height: 50px;
+	width: 60%;
+}
+
+.texto1{
+	color: white;
+	font-size: 30px;
+	margin: 0 0 10px 0;
+
+}
+
+.texto2{
+	margin: 10px 0 200px 0;
+}
+
+.texto3{
+	text-align: center;
+}
+
+img.happy{
+	height: 100%;
+	width: 80%;
+	margin-left: 10%;
+}
+
+.imagen3{
+	height: 300px;
+}
+
+.texto4{
+	font-size: 1px;
+}
+
+.texto5{
+	text-align: center;
+	margin-top: 10px; 
+}
+
+.button3{
+	margin-left: 46%;
+	padding: 10px;
+}
+
+.cajas{
+	margin-bottom: 20px;
+}
+
+
+.footer{
+	background-color: black;
+	color: silver;
+	height: 100px;
+	width: 100%;
+}
+
+.footer1{
+	margin-top: 20px;
+}
